@@ -1,2 +1,3 @@
 # TeamOmega
-Naveen Jetty
+
+1. Naveen Jetty
